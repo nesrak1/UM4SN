@@ -11,6 +11,7 @@ namespace UM4SN
         public static void Prefix(uGUI_MainMenu __instance)
         {
             new GameObject().AddComponent<MainMenuModsButton>();
+            Patcher.PatchAll(SubPatchType.ModInitialize);
         }
     }
 }
