@@ -47,18 +47,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>E:\Steam\steamapps\common\Subnautica\Subnautica_Data\Managed\LitJson.dll</HintPath>
     </Reference>
-    <Reference Include="Mono.Cecil">
-      <HintPath>..\..\AutoPatcherGUI\AutoPatcherGUI\bin\Debug\Mono.Cecil.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Cecil.Mdb">
-      <HintPath>..\..\AutoPatcherGUI\AutoPatcherGUI\bin\Debug\Mono.Cecil.Mdb.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Cecil.Pdb">
-      <HintPath>..\..\AutoPatcherGUI\AutoPatcherGUI\bin\Debug\Mono.Cecil.Pdb.dll</HintPath>
-    </Reference>
-    <Reference Include="Mono.Cecil.Rocks">
-      <HintPath>..\..\AutoPatcherGUI\AutoPatcherGUI\bin\Debug\Mono.Cecil.Rocks.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />

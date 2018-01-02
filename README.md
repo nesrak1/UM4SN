@@ -32,3 +32,7 @@ To patch a class, create a public class with three attributes above it like so:
 Where <CLASS> is the class and <METHOD> is the method name.
 Then create a method with a name of Prefix, Postfix, or Transpiler.
 Then you can patch normally with Harmony.
+
+# Compiling UM4SN yourself
+Dependencies are not resolved automatically so you may need to reconfigure those.
+The project also automatically copies the dll to a folder so you can choose that by editing the csproj file.
