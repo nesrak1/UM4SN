@@ -1,6 +1,6 @@
 # UM4SN
 ## A Subnautica Mod Loader
-To get started, check out the example here: [WinterBlast.zip](https://github.com/nesrak1/UM4SN/files/1598991/WinterBlast.zip)
+To get started, check out the example here: [WinterBlast.zip](https://github.com/nesrak1/UM4SN/files/1670771/WinterBlast.zip)
 
 # Installation
 Launch the installer here: [install.zip](https://github.com/nesrak1/UM4SN/files/1599038/install.zip)
