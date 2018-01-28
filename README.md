@@ -3,7 +3,7 @@
 To get started, check out the example here: [WinterBlast.zip](https://github.com/nesrak1/UM4SN/files/1670771/WinterBlast.zip)
 
 # Installation
-Launch the installer here: [install.zip](https://github.com/nesrak1/UM4SN/files/1599038/install.zip)
+Launch the installer here: [install.zip](https://github.com/nesrak1/UM4SN/files/1671259/install.zip)
 Create a folder called SNUnityMod in your Subnautica folder. Then place your mods in the folder and start the game.
 
 # Creating mods
