@@ -1,8 +1,4 @@
-﻿using System;
-using UM4SN.Misc;
-using UnityEngine;
-
-namespace UM4SN
+﻿namespace UM4SN
 {
     [SubPatch(SubPatchType.Internal)]
     [SubPatch(typeof(MainMenuMusic))]
