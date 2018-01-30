@@ -61,11 +61,11 @@
   <ItemGroup>
     <Compile Include="Misc\Menu\MainMenuModsPanel.cs" />
     <Compile Include="Misc\Menu\MainMenuModsButton.cs" />
-    <Compile Include="Patcher\Patcher.cs" />
+    <Compile Include="Patching\Patcher.cs" />
     <Compile Include="Loader\PluginLoader.cs" />
-    <Compile Include="Patcher\Patches\Patch_GameInput.cs" />
-    <Compile Include="Patcher\Patches\Patch_MainGameController.cs" />
-    <Compile Include="Patcher\SubPatchAttribute.cs" />
+    <Compile Include="Patching\Patches\Patch_GameInput.cs" />
+    <Compile Include="Patching\Patches\Patch_MainGameController.cs" />
+    <Compile Include="Patching\SubPatchAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Misc\ReflectionHelper.cs" />
     <Compile Include="Items\TechTypeItems.cs" />
